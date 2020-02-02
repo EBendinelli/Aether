@@ -365,7 +365,7 @@ body {
       padding-top: 20px;
       padding-bottom: 75px; }
       .user-panel .login-panel-main .avatar-container .avatar-background {
-        background: url("../img/avatar-background.png") no-repeat center center;
+        # background: url("../img/avatar-background.png") no-repeat center center;
         margin: 0 auto;
         height: 155px;
         width: 154px;
